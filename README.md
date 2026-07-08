@@ -1,4 +1,4 @@
-# Trademarkia AI/ML Engineer Task — Semantic Search System
+#Semantic Search System
 
 A production-quality semantic search system over the **20 Newsgroups** corpus,
 built with three tightly integrated components:
